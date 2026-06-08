@@ -1,5 +1,5 @@
 # CCZ Raw Data and Sources
-This respiratory contains links to the raw dataset used in the CCZ research
+The following are the sources and links to the raw dataset used in the CCZ research
 | Resource | Source | Identifier |
 |----------|--------|------------|
 | **Biodiversity** | Jones et al. (2021), Rabone et al. (2023) | • https://doi.pangaea.de/10.1594/PANGAEA.692265<br>• https://github.com/howlerMoonkey/CCZ_BIODIVERSITY/tree/main/Data-fin |
